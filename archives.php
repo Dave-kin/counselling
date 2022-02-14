@@ -63,11 +63,11 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-12">
+            <!-- <div class="col-lg-12">
               <div class="main-button-red">
                 <a href="meetings.html">Back To Meetings List</a>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -80,6 +80,8 @@
 
 
   <!-- Scripts -->
+  <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+  <div class="elfsight-app-b604aa22-7a1c-40e6-86b6-d5ba211bca7f"></div>
   <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

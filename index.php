@@ -5,19 +5,19 @@
       <video autoplay muted loop id="bg-video">
           <source src="assets/images/course-video.mp4" type="video/mp4" />
       </video>
-
       <div class="video-overlay header-text">
           <div class="container">
             <div class="row">
               <div class="col-lg-12">
                 <div class="caption">
-              <h6>Hello...</h6>
-              <h2>Welcome to kstu counselling uint!</h2>
-              <!-- <p>This is an edu meeting HTML CSS template provided by</p> -->
-              <!-- <div class="main-button-red">
-                  <div class="scroll-to-section"><a href="#contact">Join Us Now!</a></div>
-              </div> -->
-          </div>
+                  <!-- <h6>Hello...</h6> -->
+                  <h5>Welcome to kstu counselling uint!</h5>
+                  <a href="pros.php" class="btn">Get Started</a>
+                  <!-- <p>This is an edu meeting HTML CSS template provided by</p> -->
+                  <!-- <div class="main-button-red">
+                      <div class="scroll-to-section"><a href="#contact">Join Us Now!</a></div>
+                  </div> -->
+                </div>
               </div>
             </div>
           </div>
@@ -27,7 +27,7 @@
   <section class="our-courses" id="courses">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12">
+        <div class="col-6">
           <div class="section-heading">
             <h2>Our Counselors</h2>
           </div>
@@ -38,15 +38,8 @@
               <img src="assets/images/course-01.jpg" alt="Course One">
               <div class="down-content">
                 <h4>Morbi tincidunt elit vitae justo rhoncus</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                      
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -54,15 +47,8 @@
               <img src="assets/images/course-02.jpg" alt="Course Two">
               <div class="down-content">
                 <h4>Curabitur molestie dignissim purus vel</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                      
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -70,15 +56,8 @@
               <img src="assets/images/course-03.jpg" alt="">
               <div class="down-content">
                 <h4>Nulla at ipsum a mauris egestas tempor</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                      
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -86,15 +65,8 @@
               <img src="assets/images/course-04.jpg" alt="">
               <div class="down-content">
                 <h4>Aenean molestie quis libero gravida</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                      
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -102,15 +74,8 @@
               <img src="assets/images/course-01.jpg" alt="">
               <div class="down-content">
                 <h4>Lorem ipsum dolor sit amet adipiscing elit</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                     
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -118,15 +83,8 @@
               <img src="assets/images/course-02.jpg" alt="">
               <div class="down-content">
                 <h4>TemplateMo is the best website for Free CSS</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                     
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -134,15 +92,8 @@
               <img src="assets/images/course-03.jpg" alt="">
               <div class="down-content">
                 <h4>Web Design Templates at your finger tips</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                      
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -150,15 +101,8 @@
               <img src="assets/images/course-04.jpg" alt="">
               <div class="down-content">
                 <h4>Please visit our website again</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                      
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -166,15 +110,8 @@
               <img src="assets/images/course-01.jpg" alt="">
               <div class="down-content">
                 <h4>Responsive HTML Templates for you</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                     
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -182,15 +119,8 @@
               <img src="assets/images/course-02.jpg" alt="">
               <div class="down-content">
                 <h4>Download Free CSS Layouts for your business</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                     
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -198,15 +128,8 @@
               <img src="assets/images/course-03.jpg" alt="">
               <div class="down-content">
                 <h4>Morbi in libero blandit lectus cursus</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                      
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
+                  
                 </div>
               </div>
             </div>
@@ -214,15 +137,7 @@
               <img src="assets/images/course-04.jpg" alt="">
               <div class="down-content">
                 <h4>Curabitur molestie dignissim purus</h4>
-                <div class="info">
-                  <div class="row">
-                    <div class="col-8">
-                      
-                    </div>
-                    <div class="col-4">
-                       <span></span>
-                    </div>
-                  </div>
+                <div>
                 </div>
               </div>
             </div>
@@ -231,8 +146,6 @@
       </div>
     </div>
   </section>
-  
-
   <section class="upcoming-meetings" id="meetings">
     <div class="container">
       <div class="row">

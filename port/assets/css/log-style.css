@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #ecf0f1;
+    background-size: cover;
+}
+
+
+/* login css form */
+
+.container {
+    width: 370px;
+    /* height: 400px; */
+    margin-top: 60px;
+}
+
+.bklink {
+    background: #34495e;
+}
+
+.container h4 {
+    color: #7f8c8d;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.container h5 {
+    color: #7f8c8d;
+    margin-left: 40px;
+    text-decoration: underline;
+}
+
+.container h3 {
+    color: #f5f6fa;
+    margin-left: 40px;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+
+/* .container .lab {
+    color: #f5f6fa;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+input#radiolink {
+    transform: scale(2);
+}
+
+.container #radiolink {
+    border-style: none;
+    display: inline;
+    margin-left: 20px;
+} */
+
+#bt1:hover {
+    cursor: pointer;
+}
+
+#bt2 {
+    width: 50%;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+#bt2:hover {
+    cursor: pointer;
+}
+
+.imglink {
+    width: 80px;
+    border: none;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 110px;
+}

@@ -1,3 +1,5 @@
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-b604aa22-7a1c-40e6-86b6-d5ba211bca7f"></div>
 
  <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
@@ -56,8 +58,7 @@
         $(window).scroll(function () {
           checkSection();
         });
-    </script>
-</body>
 
-</body>
+    </script>
+  </body>
 </html>

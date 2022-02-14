@@ -9,7 +9,7 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
-    <title>Education Meeting HTML5 Template</title>
+    <title>KsTU Guidance & Counselling Unit</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -20,39 +20,11 @@
     <link rel="stylesheet" href="assets/css/templatemo-edu-meeting.css">
     <link rel="stylesheet" href="assets/css/owl.css">
     <link rel="stylesheet" href="assets/css/lightbox.css">
-<!--
+    <link rel="stylesheet" href="assets/css/style.css">
 
-TemplateMo 569 Edu Meeting
-
-https://templatemo.com/tm-569-edu-meeting
-
--->
   </head>
 
 <body>
-
-  <!--  Sub Header
-<div class="sub-header">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-sm-8">
-          <div class="left-content">
-           <p>This is an educational <em>HTML CSS</em> template by TemplateMo website.</p> 
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-4">
-          <div class="right-icons">
-            <ul>
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-behance"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
 
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
@@ -62,7 +34,7 @@ https://templatemo.com/tm-569-edu-meeting
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
                       <a href="#" class="logo">
-                          KsTU COUNSELLING UNIT
+                          KsTU Counselling Unit
                       </a>
                       <!-- ***** Logo End ***** -->
                       <!-- ***** Menu Start ***** -->
@@ -73,8 +45,8 @@ https://templatemo.com/tm-569-edu-meeting
                           <li class="has-sub">
                               <a href="javascript:void(0)">Objectives</a>
                               <ul class="sub-menu">
-                                  <li><a href="mission.php">Mission</a></li>
-                                  <li><a href="vision.php">Vision</a></li>
+                                  <li><a href="mission-vision.php">Mission & Vision</a></li>
+                                  <!-- <li><a href="vision.php">Vision</a></li> -->
                               </ul>
                           </li>
                          <!--  <li class="scroll-to-section"><a href="#courses">Courses</a></li>  -->
@@ -82,10 +54,12 @@ https://templatemo.com/tm-569-edu-meeting
                            <li class="has-sub">
                               <a href="javascript:void(0)">Join Us</a>
                               <ul class="sub-menu">
-                                  <li><a href="login.php">Login</a></li>
+                                  <li><a href="coun/login.php">Login</a></li>
+                                  <li><a href="coun/register.php">New(Sign Up)</a></li>
                                   <li><a href="#">Meet Counselor</a></li>
                               </ul>
                           </li>
+                          <li><a href="pros.php">Get Started</a></li>
                       </ul>        
                       <a class='menu-trigger'>
                           <span>Menu</span>
